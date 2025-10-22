@@ -1,8 +1,3 @@
--- anticheat.lua
-
--- Credits to the Anticheat author MAC
-
-
 local m_saved_os = jit.os
 local convar_meta = FindMetaTable( "ConVar" )
 local cusercmd_meta = FindMetaTable( "CUserCmd" )
